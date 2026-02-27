@@ -15,7 +15,9 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  Hi! I’m a Computer Science student at the University of Houston. My focus is on building scalable, secure, and reliable apps, focusing on full-stack development and security. I love exploring new frameworks, automating tasks, and learning.
+  CS student at the University of Houston, currently on co-op at NASA working on 
+  Linux infrastructure for the Artemis program. Security+ certified. Interested in 
+  cloud infrastructure, platform engineering, and security.
 </p>
 
 ---
